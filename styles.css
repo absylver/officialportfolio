@@ -485,6 +485,10 @@ footer a {
 .footer-message {
     margin: 2rem 0;
 }
+.counter{
+    width: 30px;
+    height:20px;
+}
 
 .footer-social a,
 .social-icons a {
