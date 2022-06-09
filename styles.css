@@ -542,7 +542,7 @@ footer a {
     }
 
     .service-tiers {
-        gap: 0rem;
+        gap:0.3rem;
     }
 
     .project-item {
@@ -551,6 +551,17 @@ footer a {
         padding: 2rem;
         box-shadow: 0 20px 30px 0 rgba(212, 255, 255, 0.15);
     }
+    .fa fa-mobile{
+        width: 1rem;
+    }
+    
+        .counter{
+    position: relative;
+    margin: 0 auto;
+    width: 50rem;
+    height:13rem;
+    bottom: 60px;
+}
 
     .project-img {
         width: 20rem;
