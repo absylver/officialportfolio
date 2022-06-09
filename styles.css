@@ -486,8 +486,10 @@ footer a {
     margin: 2rem 0;
 }
 .counter{
-    width: 2rem;
-    height:1rem;
+    position: relative;
+    margin: 0 auto;
+    width: 10rem;
+    height:13rem;
 }
 
 .footer-social a,
@@ -604,6 +606,14 @@ footer a {
     .contact .container {
         flex-direction: column;
     }
+    
+    .counter{
+    position: relative;
+    margin: 0 auto;
+    width: 15rem;
+    height:13rem;
+    bottom: 60px;
+}
 
     footer,
     footer p {
